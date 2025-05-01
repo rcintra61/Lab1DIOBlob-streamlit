@@ -1,6 +1,6 @@
 # Cadastro de Produtos com Streamlit
 
-![screenshot](imagens/Evidence1.png)
+![screenshot](Imagens/Evidence1.jpg)
 
 Este projeto é uma aplicação web desenvolvida em Python com **Streamlit**, permitindo:
 
@@ -20,7 +20,7 @@ Este projeto é uma aplicação web desenvolvida em Python com **Streamlit**, pe
 
 ## 📸 Prints
 
-| ![cadastro](imagens/Evidence1.png) | ![listagem](imagens/Evidence2.png) | ![paginacao](imagens/Evidence3.png) |
+| ![cadastro](Imagens/Evidence1.png) | ![listagem](Imagens/Evidence2.png) | ![paginacao](Imagens/Evidence3.png) |
 
 ## ✨ O que aprendi
 
