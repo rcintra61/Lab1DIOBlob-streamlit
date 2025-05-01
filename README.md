@@ -20,7 +20,7 @@ Este projeto é uma aplicação web desenvolvida em Python com **Streamlit**, pe
 
 ## 📸 Prints
 
-| ![cadastro](Imagens/Evidence1.png) | ![listagem](Imagens/Evidence2.png) | ![paginacao](Imagens/Evidence3.png) |
+| ![cadastro](Imagens/Evidence1.jpg) | ![listagem](Imagens/Evidence2.jpg) | ![paginacao](Imagens/Evidence3.jpg) |
 
 ## ✨ O que aprendi
 
